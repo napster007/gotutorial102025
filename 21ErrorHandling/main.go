@@ -32,7 +32,7 @@ func main() {
 	// 	fmt.Println(result)
 	// }
 
-	// Test the Sqrt function with a negative value
+	// Test the Sqrt function with a positive value
 
 	result, err := Sqrt(5)
 	if err != nil {
