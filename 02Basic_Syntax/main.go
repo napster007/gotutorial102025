@@ -11,5 +11,5 @@ func main() {
 		a multiline
 		comment!
 	*/
-	fmt.Println("Hello, world!")
+	fmt.Println("Hello, world!, Greeting from me :)")
 }
